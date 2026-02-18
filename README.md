@@ -17,6 +17,9 @@ A comprehensive web-based Pharmacy Management System built with PHP 8.3 and MySQ
 - [Contributing](#contributing)
 - [License](#license)
 
+<img width="1889" height="832" alt="image" src="https://github.com/user-attachments/assets/88d3bd6c-25bc-46bb-8301-889a372dca33" />
+
+
 ## Features
 
 - **Customer Management**: Manage customer profiles and maintain customer ledgers
